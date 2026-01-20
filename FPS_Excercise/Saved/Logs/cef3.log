@@ -1,36 +1,35 @@
-[32208:32368:0120/162039.680:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[32208:9292:0120/162039.833:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[32208:32368:0120/162039.912:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[30416:31064:0120/162045.312:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E1C528B49BE1EB1BCB4160B75EEA0C4B will be ignored
-[32208:10692:0120/162047.465:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162047.493:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162047.569:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162047.569:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162047.649:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[32208:32368:0120/162047.977:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[32208:32368:0120/162047.977:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[32208:32368:0120/162047.977:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[32208:32368:0120/162047.977:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[32208:10692:0120/162047.983:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[32208:10692:0120/162236.071:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162249.847:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[21084:4908:0120/162255.652:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[32208:10692:0120/162425.322:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162425.322:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162736.949:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162737.109:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162737.110:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162737.110:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162842.934:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162842.934:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/162947.225:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164152.724:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164152.819:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164157.570:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164157.570:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164158.347:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164158.388:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164211.193:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164520.636:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/164717.782:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32208:10692:0120/170054.442:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:8944:0120/182229.578:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[42552:39972:0120/182229.609:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[42552:8944:0120/182229.619:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[42552:8944:0120/182252.729:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[42552:39476:0120/182254.532:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182255.884:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182258.659:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182259.312:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182259.312:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182301.117:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182302.262:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182501.330:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182501.330:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182545.224:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182910.785:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/182910.785:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/184656.853:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/184656.854:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/184657.680:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/184921.385:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/185009.982:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/190228.472:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/191717.806:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/191717.828:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/191717.914:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/191717.914:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/191717.942:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/193403.937:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/194652.976:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/195034.773:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/195035.062:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/200319.136:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/201425.679:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/201426.945:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/201426.945:ERROR:cast_crl.cc(443)] CRL - Verification failed.
