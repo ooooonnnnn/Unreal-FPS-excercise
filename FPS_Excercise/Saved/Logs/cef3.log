@@ -33,3 +33,38 @@
 [42552:39476:0120/201425.679:ERROR:cast_crl.cc(443)] CRL - Verification failed.
 [42552:39476:0120/201426.945:ERROR:cast_crl.cc(443)] CRL - Verification failed.
 [42552:39476:0120/201426.945:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42552:39476:0120/210554.079:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18644:23112:0120/210556.988:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -331
+[42552:8944:0122/142855.119:ERROR:device_event_log_impl.cc(196)] [14:28:55.052] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[42552:8944:0122/142855.119:ERROR:device_event_log_impl.cc(196)] [14:28:55.076] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[18644:32436:0122/142947.115:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/142947.115:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:8944:0122/143042.560:ERROR:device_event_log_impl.cc(196)] [14:30:42.552] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18644:23112:0122/161657.082:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18644:32436:0122/183437.857:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/183437.861:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/183442.867:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/183442.870:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/183452.871:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/183452.878:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/183512.875:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/183512.892:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/193437.866:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/193437.869:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/193442.873:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/193442.873:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/193452.876:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/193452.890:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/193512.878:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/193512.893:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:8944:0122/202213.064:ERROR:device_event_log_impl.cc(196)] [20:22:12.791] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[42552:8944:0122/203210.487:ERROR:device_event_log_impl.cc(196)] [20:32:10.384] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[42552:39972:0122/213437.900:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/213437.901:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/213442.904:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/213442.924:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/213452.908:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/213452.943:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:39972:0122/213512.911:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18644:32436:0122/213512.970:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[42552:8944:0122/222330.341:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
